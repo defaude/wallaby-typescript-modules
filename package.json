@@ -1,0 +1,14 @@
+{
+  "name": "wallaby-typescript-modules",
+  "version": "1.0.0",
+  "description": "Demonstrating my problems with TypeScript modules and wallaby.js 1.0.20",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/defaude/wallaby-typescript-modules.git"
+  },
+  "author": {
+    "name": "Roland Hummel",
+    "email": "git@defaude.info"
+  },
+  "license": "WTFPL"
+}
